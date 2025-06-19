@@ -1,0 +1,42 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Cache files
+*.cache
+*.tmp
+
+# Dependencies
+packages/
+node_modules/
+
+# Log files
+*.log
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# User-specific files
+*.DotSettings.user 
