@@ -1,1 +1,1 @@
-# Dise-o_detallado
+# Diseño_detallado
